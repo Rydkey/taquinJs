@@ -39,8 +39,6 @@
         <div class="col-lg-8 col-md-offset-2">
             <form name="chronoForm">
                 <input type="text" name="chronotime" id="chronotime" value="0:00:00:00"/>
-                <input type="button" name="startstop" value="start!" onClick="chronoStart()" />
-                <input type="button" name="reset" value="reset!" onClick="chronoReset()" />
             </form>
         </div>
     </div>

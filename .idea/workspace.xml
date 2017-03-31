@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd833df5-ad83-4127-8698-20352d2a8db7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrono.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chrono.js" afterPath="$PROJECT_DIR$/chrono.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taquin.js" afterPath="$PROJECT_DIR$/taquin.js" />
     </list>
@@ -23,28 +23,28 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="194">
+              <caret line="40" column="89" lean-forward="false" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="taquin.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="taquin.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/taquin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="278">
+              <caret line="101" column="57" lean-forward="false" selection-start-line="101" selection-start-column="57" selection-end-line="101" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chrono.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chrono.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chrono.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-293">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -102,9 +102,9 @@
       <list>
         <option value="$PROJECT_DIR$/divide.js" />
         <option value="$PROJECT_DIR$/assets/personal/css/style.css" />
-        <option value="$PROJECT_DIR$/taquin.js" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/chrono.js" />
+        <option value="$PROJECT_DIR$/taquin.js" />
       </list>
     </option>
   </component>
@@ -260,7 +260,7 @@
       <workItem from="1490789372541" duration="8316000" />
       <workItem from="1490892601113" duration="7476000" />
       <workItem from="1490941767100" duration="6250000" />
-      <workItem from="1490957730549" duration="1477000" />
+      <workItem from="1490957730549" duration="3388000" />
     </task>
     <task id="LOCAL-00001" summary="taquin fonctionnel">
       <created>1490957770886</created>
@@ -269,11 +269,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490957770886</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajout du chrono">
+      <created>1490961307294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490961307294</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39328000" />
+    <option name="totallyTimeSpent" value="41239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1922" height="1085" extended-state="6" />
@@ -307,7 +314,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="taquin fonctionnel" />
-    <option name="LAST_COMMIT_MESSAGE" value="taquin fonctionnel" />
+    <MESSAGE value="ajout du chrono" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout du chrono" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -583,27 +591,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taquin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state relative-caret-position="194">
+          <caret line="40" column="89" lean-forward="false" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chrono.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taquin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="101" column="57" lean-forward="false" selection-start-line="101" selection-start-column="57" selection-end-line="101" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>

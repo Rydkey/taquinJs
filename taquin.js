@@ -1,6 +1,7 @@
 /**
  * Created by rydkey on 21/03/17.
  */
+
 var ImageTaquin = [[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]];
 var Win = [[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]];
 var asset = 'assets/personal/img/'
@@ -40,7 +41,7 @@ function setCaseVide(i,j) {
 
 function melanger() {
     var b,i,j;
-    for(b=0;b<9999;b++){
+    for(b=0;b<999;b++){
         j = Math.floor((Math.random() * 4) + 1);
         if (j==1){
             move(0,1)
